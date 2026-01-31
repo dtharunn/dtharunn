@@ -38,7 +38,7 @@ Small programs like adding two numbers, loops, and conditions
 
 ### 🔗 Links
 - 🌐 Portfolio: https://tharunportfolio.dtharun-official.workers.dev/
-- 💻 GitHub: https://github.com/dtharun
+- 💻 GitHub: https://github.com/dtharunn
 
 ---
 
