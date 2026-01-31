@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tharun</h1>
+<h3 align="center">Aspiring Web Developer | Self-Learner</h3>
 
-<!--
-**dtharunn/dtharunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Completed **12th Standard**
+- 🌱 Learning **Web Development**
+- 💡 Interested in **logical problem solving**
+- 🚀 Building projects using **HTML, CSS, JavaScript**
+- 📍 Tamil Nadu, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+- HTML  
+- CSS  
+- JavaScript (Basics)  
+- Python (Basics)  
+
+---
+
+### 📂 Projects
+🔹 **Portfolio Website**  
+Personal portfolio website built with HTML, CSS, and JavaScript  
+🌐 Live: https://tharunportfolio.dtharun-official.workers.dev/
+
+🔹 **Simple Calculator**  
+A basic calculator to perform arithmetic operations using JavaScript
+
+🔹 **To-Do List App**  
+Simple task manager built using JavaScript
+
+🔹 **JavaScript Practice**  
+Small programs like adding two numbers, loops, and conditions
+
+---
+
+### 🔗 Links
+- 🌐 Portfolio: https://tharunportfolio.dtharun-official.workers.dev/
+- 💻 GitHub: https://github.com/dtharun
+
+---
+
+<p align="center">
+✨ Learning step by step • Consistency over perfection ✨
+</p>
