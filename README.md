@@ -15,7 +15,7 @@
 ### 🛠️ Skills
 - HTML  
 - CSS  
-- JavaScript (Basics)  
+- JavaScript  
 - Python (Basics)  
 
 ---
