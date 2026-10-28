@@ -1,93 +1,108 @@
-# 👋 Hi, I'm Tharun
+ 
+<h1 align="center">👋 Hi, I'm Tharun</h1>
+<h3 align="center">Aspiring Web Developer | Self-Learner</h3>
 
-### 💻 Aspiring Web Developer | Self-Learner
+<p align="center">
+  Passionate about building responsive web applications and continuously improving my development skills.
+</p>
+
+<p align="center">
+  <a href="https://github.com/dtharunn">
+    <img src="https://img.shields.io/badge/GitHub-dtharunn-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-orange?style=for-the-badge" alt="Location"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Completed 12th Standard
-- 🌱 Currently learning Web Development
-- 💡 Interested in logical thinking and problem-solving
-- 🚀 Building projects using HTML, CSS, and JavaScript
-- 📍 Tamil Nadu, India
+- 🌱 Currently learning web development and frontend technologies
+- 💡 Interested in problem-solving and building practical applications
+- 🚀 Enjoy developing projects that improve my technical skills
+- 🎯 Focused on continuous learning and professional growth
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technical Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,git,github" alt="Skills"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,git,github,vscode" alt="Technical Skills"/>
 </p>
 
 - **Frontend:** HTML, CSS, JavaScript, React.js
 - **Programming:** Python (Basics)
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, Visual Studio Code
+- **Concepts:** Responsive Web Design, Form Validation, Local Storage
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🎓 CampusConnect – College Event Registration Portal
+### 🎓 CampusConnect — College Event Registration Portal
 
-A responsive web application that helps students explore college events, view event details, and register for events through an interactive interface.
+A responsive web application designed to help students discover college events, explore event details, and register through a simple, interactive interface.
 
-**Features:**
-- 🔍 Search and filter events
-- 📅 View event details and event categories
-- 📝 Register for events with form validation
-- 📧 Validate email addresses
-- ✅ Prevent duplicate registrations
-- 👥 Track event capacity and registered events
-- 💾 Store event and registration data using Local Storage
+**Key Features**
+- Search and filter events
+- View event details and available capacity
+- Register with form and email validation
+- Prevent duplicate registrations
+- View registered events
+- Store event and registration details using Local Storage
 
 **Tech Stack:** React.js, JavaScript, HTML, CSS, Local Storage
 
-🌐 **Live Demo:** [CampusConnect](https://campusconnect-e.vercel.app/)
+<p>
+  <a href="https://campusconnect-e.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
 
-💻 **GitHub Repository:** https://github.com/dtharunn/campusconnect
+### 🌐 Personal Portfolio Website
 
----
+A personal website showcasing my web development journey and projects.
 
-### 🌐 Portfolio Website
+**Tech Stack:** HTML, CSS, JavaScript
 
-A personal portfolio website showcasing projects and my web development journey.
-
-🔗 **Live Demo:** [Visit Portfolio](https://tharunportfolio.dtharun-official.workers.dev/)
+**Live Demo:** [Visit Portfolio](https://tharunportfolio.dtharun-official.workers.dev/)
 
 ### 🧮 Simple Calculator
 
-A basic calculator built with JavaScript to perform arithmetic operations.
+A JavaScript-based calculator for performing basic arithmetic operations.
 
-### ✅ To-Do List App
+### ✅ To-Do List Application
 
-A simple task management application built using JavaScript.
+A simple task management application for organizing daily activities using JavaScript.
 
-### 💡 JavaScript Practice
+### 💡 JavaScript Practice Programs
 
-Beginner-friendly programs covering arithmetic operations, loops, conditions, and basic programming logic.
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dtharunn&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtharunn&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+A collection of beginner-level programs covering loops, conditions, arithmetic operations, and fundamental programming concepts.
 
 ---
 
-## 🔗 Connect With Me
-
-- 🌐 **Portfolio:** [tharunportfolio](https://tharunportfolio.dtharun-official.workers.dev/)
-- 💻 **GitHub:** [@dtharunn](https://github.com/dtharunn)
-
----
+## 📊 GitHub Statistics
 
 <p align="center">
-  ✨ Learning every day • Building consistently • Growing step by step ✨
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dtharunn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtharunn&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/dtharunn">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://tharunportfolio.dtharun-official.workers.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Learn continuously. Build consistently. Improve every day."</i>
 </p>
