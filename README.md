@@ -29,14 +29,14 @@
 
 ## 🚀 Projects
 
-### 1. CampusConnect — College Event Registration Portal
+### 🎓 CampusConnect — College Event Registration Portal
 
 A responsive web application that enables students to explore college events, view event details, and register for events through an interactive interface.
 
 **Key Features**
 - Search and filter events
 - View event details and available capacity
-- Register with form validation and email validation
+- Register with form and email validation
 - Prevent duplicate registrations
 - View registered events
 - Store event and registration details using Local Storage
@@ -44,24 +44,24 @@ A responsive web application that enables students to explore college events, vi
 **Tech Stack:** React.js, JavaScript, HTML, CSS, Local Storage
 
 - **Live Demo:** [CampusConnect](https://campusconnect-e.vercel.app/)
-- **GitHub Repository:** Add your repository link here.
+- **GitHub Repository:** [View Source Code](https://github.com/dtharunn/campusconnect)
 
-### 2. Personal Portfolio Website
+### 🌐 Personal Portfolio Website
 
 A personal website showcasing my web development journey and projects.
 
 - **Tech Stack:** HTML, CSS, JavaScript
 - **Live Demo:** [Visit Portfolio](https://tharunportfolio.dtharun-official.workers.dev/)
 
-### 3. Simple Calculator
+### 🧮 Simple Calculator
 
 A JavaScript-based calculator for performing basic arithmetic operations.
 
-### 4. To-Do List Application
+### ✅ To-Do List Application
 
 A simple task management application for organizing daily activities using JavaScript.
 
-### 5. JavaScript Practice Programs
+### 💡 JavaScript Practice Programs
 
 A collection of beginner-friendly programs covering arithmetic operations, loops, conditions, and fundamental programming concepts.
 
