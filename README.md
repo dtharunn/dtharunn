@@ -45,7 +45,7 @@ A responsive web application that helps students explore college events, view ev
 
 🌐 **Live Demo:** [CampusConnect](https://campusconnect-e.vercel.app/)
 
-💻 **GitHub Repository:** Add your repository link here.
+💻 **GitHub Repository:** https://github.com/dtharunn/campusconnect
 
 ---
 
