@@ -71,6 +71,7 @@ A collection of beginner-friendly programs covering arithmetic operations, loops
 
 - **GitHub:** [@dtharunn](https://github.com/dtharunn)
 - **Portfolio:** [Visit My Website](https://tharunportfolio.dtharun-official.workers.dev/)
+- **Email:** [dtharun.official@gmail.com](mailto:dtharun.official@gmail.com)
 
 ---
 
