@@ -66,7 +66,6 @@ A simple task management application for organizing daily activities using JavaS
 A collection of beginner-friendly programs covering arithmetic operations, loops, conditions, and fundamental programming concepts.
 
 ---
-
 ## 🔗 Connect With Me
 
 - **GitHub:** [@dtharunn](https://github.com/dtharunn)
